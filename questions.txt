@@ -1,0 +1,50 @@
+name: <name here>
+date: <date here>
+
+Data Types and Operations | Questions
+
+Please answer all of the following questions thoughtfully and completely.
+
+
+
+1a - What is the resulting type of two integers used together for an operation, like 5 + 4?
+
+
+
+1b - Is there an exception to this rule, with a certain operator?
+
+
+
+2a - What is the resulting type of an integer and a float used together for an operation, like -11.4 - 5?
+
+
+
+2b - Is there an exception to this rule, with a certain operator?
+
+
+
+3a - What is the resulting type of two floats used together for an operation, like 2.3 * .45?
+
+
+
+3b - Is there an exception to this rule, with a certain operator?
+
+
+
+4 - What is string concatenation? How does it work?
+
+
+
+5 - What is string duplication? How does it work?
+
+
+
+6 - Can you combine strings and integers? What about strings and floats? What happens if you do?
+
+
+
+7 - What does this tell you about how strings can interact with integers or floats?
+
+
+
+8 - Can you use one of the operators to determine if a number is even or odd?
